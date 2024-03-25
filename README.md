@@ -22,7 +22,7 @@ Wormholes have captured the imagination of scientists and science fiction writer
 
 The mathematics behind wormholes involves complex solutions to Einstein's equations of general relativity. One of the key equations used to describe wormholes is the Einstein-Rosen bridge equation:
 
-ds^2 = -dt^2 + dr^2/(1-r_0/r) + r^2(dθ^2 + sin^2(θ)dφ^2)
+`ds^2 = -dt^2 + dr^2/(1-r_0/r) + r^2(dθ^2 + sin^2(θ)dφ^2)`
 
 where `ds` represents the spacetime interval, `t` is time, `r` is the radial coordinate, `θ` is the polar angle, and `φ` is the azimuthal angle. The parameter `r_0` represents the throat radius of the wormhole.
 
